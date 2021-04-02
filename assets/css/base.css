@@ -1,0 +1,11 @@
+h1 {
+  @apply font-title text-2xl md:text-4xl pt-6;
+}
+
+a {
+  @apply inline-block underline p-2;
+}
+
+input {
+  @apply w-full px-4 py-2 rounded bg-transparent text-white placeholder-white focus:outline-none border-2 border-white;
+}

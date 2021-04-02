@@ -1,0 +1,19 @@
+@import url("~/assets/css/base.css");
+
+@font-face {
+  font-family: 'Kollektif';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Kollektif'),
+    url('~assets/fonts/Kollektif.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'League Spartan';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: local('League Spartan'),
+    url('~assets/fonts/LeagueSpartanBold.ttf') format('truetype');
+}
