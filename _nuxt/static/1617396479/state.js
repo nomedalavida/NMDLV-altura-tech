@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FNMDLV-altura-tech\u002F_nuxt\u002Fstatic\u002F1617396479",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002FNMDLV-altura-tech\u002F",assetsPath:"\u002FNMDLV-altura-tech\u002F_nuxt\u002F",cdnURL:a}}}}(null));
