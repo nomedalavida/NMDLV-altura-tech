@@ -1,6 +1,8 @@
 # El medidor de altura tech - No me da la vida
 
-Podrás ver cómo sería estar al lado de Miriam González y Alba Silvente las creadoras del podcast No me da la vida. ¡Mídete y pásanos captura!
+Podrás ver cómo sería estar al lado de Miriam González y Alba Silvente las creadoras del podcast [No me da la vida](https://anchor.fm/no-me-da-la-vida). ¡Mídete y pásanos captura!
+
+Síguenos en [@nomedalavidadev](https://twitter.com/nomedalavidadev), ¡te esperamos con los brazos bien abiertos! <3
 
 ## Build Setup
 
